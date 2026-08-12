@@ -1,157 +1,148 @@
 # 👋 Hi, I'm Rohith Kumar K M
 
-### 🤖 Machine Learning & AI Developer | Python 
+### 🤖 AI & Machine Learning | Generative AI | RAG | Python Developer
 
-I'm a **Machine Learning & AI developer focused on building practical, data-driven applications** using Python, Machine Learning, and modern AI technologies.
+<p align="center">
+  <a href="https://github.com/RohithKumar-KM">
+    <img src="https://komarev.com/ghpvc/?username=RohithKumar-KM&label=Profile%20Views&color=0e75b6&style=flat"/>
+  </a>
+  <a href="https://github.com/RohithKumar-KM">
+    <img src="https://img.shields.io/github/followers/RohithKumar-KM?label=Followers&style=flat&logo=github"/>
+  </a>
+  <a href="https://github.com/RohithKumar-KM?tab=repositories">
+    <img src="https://img.shields.io/github/stars/RohithKumar-KM?affiliations=OWNER&label=Stars&style=flat&logo=github"/>
+  </a>
+</p>
 
-I work across the ML development workflow — from **data preprocessing, exploratory data analysis, and feature engineering to model development, evaluation, and application development**.
+## 👨‍💻 About Me
 
-I'm particularly interested in **Generative AI and intelligent applications**, and I enjoy turning concepts such as **RAG, LLMs, and AI agents** into working projects.
+🎓 AI & Machine Learning enthusiast focused on building practical intelligent applications.
 
----
-
-## 🧠 Technical Skills
-
-### 💻 Programming
-
-- Python
-- SQL
-
-### 📊 Data Science & Machine Learning
-
-- Pandas
-- NumPy
-- Scikit-learn
-- Exploratory Data Analysis
-- Data Preprocessing
-- Feature Engineering
-- Feature Scaling & Encoding
-- Classification & Predictive Modeling
-- Model Evaluation
-- Data Visualization
-
-### 🤖 AI & LLM Applications
-
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Vector Search
-- Document Question Answering
-- LangChain
-- LangGraph
-- FAISS
-- Ollama
-- AI Agents
-- Model Context Protocol (MCP)
-
-### 🛠️ Development & Tools
-
-- Streamlit
-- Git
-- GitHub
-- Jupyter Notebook
-- Arduino IDE
+- 🔭 Building **AI, RAG, Machine Learning & Data Analytics** projects
+- 🌱 Learning **Generative AI, LLMs, LangChain, LangGraph, MCP & AI Agents**
+- 🧠 Interested in **RAG, Agentic AI, NLP, Computer Vision & ML**
+- 🚀 Passionate about turning ideas into **real-world AI applications**
+- 🤝 Open to collaborating on **AI/ML, Generative AI & Open Source projects**
+- 💬 Ask me about **Python, Machine Learning, RAG, LangChain, Streamlit & Data Science**
 
 ---
 
-# 🚀 Featured Projects
+## 🛠️ Languages & Tools
 
-## ❤️ Heart Disease Prediction
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-An end-to-end machine learning application for predicting heart disease risk from clinical parameters.
+### AI / Machine Learning
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 
-### Highlights
+### Generative AI & RAG
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square&logo=graphql&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 
-- Data preprocessing and exploratory analysis
-- Feature scaling and data preparation
-- Multiple machine learning model development
-- Model evaluation and comparison
-- Classification metrics analysis
-- Interactive Streamlit application
-- Integrated prediction pipeline
-
-**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit`
+### Development & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 📊 Customer Behavior & Churn Analytics
+## 🚀 Featured Projects
 
-A predictive analytics project focused on analyzing customer behavior and identifying customers at risk of churn.
+### 📄 DocuMind AI RAG
+**Local AI-powered PDF Question Answering System**
 
-### Highlights
+- 📚 Upload and query multiple PDF documents
+- 🔎 Semantic search using **FAISS**
+- 🧠 **LangChain + Hugging Face Embeddings**
+- 🤖 Local LLM inference using **Ollama**
+- 🌐 Interactive **Streamlit** interface
+
+### 🫀 Heart Disease Prediction
+**Machine Learning based health-risk prediction**
+
+- Feature engineering and preprocessing
+- Multiple ML model evaluation
+- Classification and performance analysis
+- Streamlit-based application
+
+### 📊 Customer Churn Prediction
+**Predictive Analytics using Machine Learning**
 
 - Exploratory Data Analysis
-- Data cleaning and preprocessing
-- Categorical feature encoding
-- Feature engineering
-- Multiple ML model comparison
-- Customer churn prediction
-- Feature importance analysis
+- Feature engineering and encoding
+- **Random Forest, Logistic Regression & Decision Tree**
+- Churn prediction and feature importance analysis
 
-**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
+### 🖱️ ESP32 AI Gesture Air Mouse
+**Context-aware gesture-controlled wireless mouse**
 
----
-
-## 🤖 DocuMind AI — PDF RAG Assistant
-
-An AI-powered document assistant that allows users to interact with PDF documents using **Retrieval-Augmented Generation**.
-
-### Highlights
-
-- PDF document processing
-- Text splitting and chunking
-- Embedding generation
-- FAISS vector similarity search
-- Relevant context retrieval
-- Context-aware responses
-- Local LLM integration using Ollama
-- Interactive Streamlit interface
-
-**Tech:** `Python` `LangChain` `FAISS` `Ollama` `RAG` `Streamlit`
+- ESP32 + MPU6050
+- TinyML gesture classification
+- BLE HID communication
+- Multiple operating modes
+- Gesture-based media and presentation control
 
 ---
 
-# 🌱 Currently Exploring
+## 📚 Currently Learning
 
-I'm continuously expanding my skills in:
-- Generative AI
-- LLM Application Development
-- Advanced RAG Techniques
-- LangGraph
-- AI Agents
-- Model Context Protocol (MCP)
-- Docker
-- MLOps
-- AI Application Deployment
+- 🤖 Agentic AI
+- 🧠 Large Language Models (LLMs)
+- 🔗 LangChain & LangGraph
+- 🧩 Model Context Protocol (MCP)
+- 🐳 Docker & MLOps
+- 🚀 AI Deployment
+- ⚡ Multi-Agent Systems
 
 ---
 
-# 🎯 Career Interests
+markdown
+## 📊 GitHub Analytics
 
-I'm looking for **entry-level opportunities, internships, and collaborative projects** in:
+<p align="center">
 
-`Machine Learning` • `Artificial Intelligence` • `Data Science` • `Data Analytics` • `Generative AI`
+  <img src="https://github-readme-stats.shion.dev/api?username=RohithKumar-KM&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
-I'm particularly interested in building practical systems that combine **data, machine learning, and AI to solve real-world problems**.
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RohithKumar-KM&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+</p>
+
+<p align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohithKumar-KM&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%"/>
+
+</p>
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohith-kumar-k-m-b78612334/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rohithkumarkm244@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RohithKumar-KM">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-# 🤝 Let's Connect
+## 💡 Quote
 
-I'm open to connecting with:
-
-- 👨‍💻 Developers
-- 🤖 AI/ML Professionals
-- 💼 Recruiters
-- 🌐 Open-source Contributors
-- 🚀 Fellow AI Enthusiasts
-
-### 🔗 LinkedIn
-
-[**Rohith Kumar K M**](https://www.linkedin.com/in/rohith-kumar-k-m)
+> **"Building intelligent systems that solve real-world problems with AI."**
 
 ---
 
-### 💡 Build. Learn. Experiment. Improve.
+⭐ If you find my projects useful, consider giving them a star!
 
-⭐ **Feel free to explore my repositories and projects!**
+**Thanks for visiting my profile! 🚀**
